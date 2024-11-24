@@ -1,11 +1,11 @@
-import './style.css'
+import ToggleColor from './ToggleColor'
 
 function App() {
   
 
   return (
     <>
-    <h4>toggler</h4>
+    <ToggleColor />
     </>
   )
 }
